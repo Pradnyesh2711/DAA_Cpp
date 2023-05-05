@@ -43,7 +43,7 @@ int M=strlen(pat);
 
 int main()
 {
-    char txt[] = "Pradnyesh";
+    char txt[] = "PradnyeshPradPradPrad";
     char pat[] = "Prad";
  
     
